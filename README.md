@@ -80,11 +80,3 @@
     <img src="https://img.shields.io/badge/GitHub-henriquefsousa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=henriquefsousa&color=blue&style=flat-square" alt="Profile views"/>
-  <br/><br/>
-  <i>Obrigado por visitar! Novos projetos vindo por aí... 🚀</i>
-</div>
